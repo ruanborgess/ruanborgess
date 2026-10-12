@@ -1,9 +1,10 @@
-
 <div align="center">
 
 # RUAN BORGES
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;Construindo+projetos+evoluindo+sempre" alt="Texto animado" />
+### Estudante de Ciência da Computação · Desenvolvedor em formação
+
+Construindo soluções, aprendendo na prática e evoluindo a cada projeto.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ruanborgess-181717?style=for-the-badge&logo=github)](https://github.com/ruanborgess)
 
@@ -11,42 +12,50 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👋 Sobre mim
 
-- 🎓 Ciência da Computação na Unesc
-- 💻 Interesse em desenvolvimento web e engenharia de software
-- 🚀 Aprendendo, construindo projetos e evoluindo na programação
-- 🧠 Estudando PHP, Laravel, JavaScript e bancos de dados
+🎓 **Ciência da Computação na Unesc**  
+💻 Tenho interesse em desenvolvimento web e engenharia de software.  
+🌱 Atualmente estudo PHP, Laravel, JavaScript e bancos de dados.  
+🚀 Gosto de transformar aprendizado em projetos e aprimorar minhas habilidades construindo.
 
-## 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,nodejs,express,mysql,git,github&theme=dark" />
-
-</div>
-
-## 📊 GitHub Stats
+## 🧰 Tecnologias
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ruanborgess&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanborgess&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ruanborgess&theme=tokyonight&hide_border=true" />
+![Tecnologias](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,nodejs,express,mysql,git,github&theme=dark)
 
 </div>
 
-## 🚀 Projetos
+## 📌 Projetos em destaque
 
-### 🛒 [TCC — E-commerce System](https://github.com/ruanborgess/TCC-ecommerce-system)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 TCC — E-commerce System</h3>
+      <p>Loja virtual com painel administrativo para gerenciamento de produtos e categorias.</p>
+      <a href="https://github.com/ruanborgess/TCC-ecommerce-system">Ver repositório →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👥 Academic User Management</h3>
+      <p>Sistema de gerenciamento de usuários desenvolvido com Node.js, Express e MySQL.</p>
+      <a href="https://github.com/ruanborgess/academic-user-management">Ver repositório →</a>
+    </td>
+  </tr>
+</table>
 
-Loja virtual com painel administrativo para gerenciamento de produtos e categorias.
+## 📊 Atividade no GitHub
 
-### 👥 [Academic User Management](https://github.com/ruanborgess/academic-user-management)
+<div align="center">
 
-Sistema de gerenciamento de usuários desenvolvido com Node.js, Express e MySQL.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ruanborgess&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="Estatísticas do GitHub de Ruan" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanborgess&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens mais usadas por Ruan" />
+
+<br />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ruanborgess&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
+
+</div>
 
 ---
 
@@ -54,21 +63,4 @@ Sistema de gerenciamento de usuários desenvolvido com Node.js, Express e MySQL.
 
 ### ✨ Sempre aprendendo. Sempre evoluindo.
 
-![Profile views](https://komarev.com/ghpvc/?username=ruanborgess&color=38BDF8&style=flat-square&label=VISITAS+AO+PERFIL)
-
 </div>
-
-<!--
-**ruanborgess/ruanborgess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
