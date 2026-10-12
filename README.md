@@ -15,10 +15,10 @@ Construindo soluções, aprendendo na prática e evoluindo a cada projeto.
 
 ## 👋 Um pouco sobre mim
 
-🎓 Ciência da Computação na Unesc
-💻 Desenvolvimento web e engenharia de software
-🌱 Utilizando: PHP, Laravel, JavaScript e SQL
-🚀 Na prática: transformo estudos em projetos e busco melhorar a cada linha de código.
+🎓 Ciência da Computação na Unesc  
+💻 Desenvolvimento web e engenharia de software  
+🌱 Utilizando: PHP, Laravel, JavaScript e SQL  
+🚀 Na prática: transformo estudos em projetos e busco melhorar a cada linha de código.  
 
 ## 🧰 Minha caixa de ferramentas
 
