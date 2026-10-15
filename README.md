@@ -13,22 +13,23 @@ Construindo soluções, aprendendo na prática e evoluindo a cada projeto.
 
 <br />
 
-## 👋 Um pouco sobre mim
+## Um pouco sobre mim
 
-🎓 Ciência da Computação na Unesc  
+📚 Ciência da Computação - UNESC  
+🎓 Técnico em Informática Integrado ao Ensino Médio - IFC  
 💻 Desenvolvimento web e engenharia de software  
-🌱 Utilizando: PHP, Laravel, JavaScript e SQL  
 🚀 Na prática: transformo estudos em projetos e busco melhorar a cada linha de código.  
 
-## 🧰 Minha caixa de ferramentas
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,nodejs,express,mysql,git,github&theme=dark" alt="HTML, CSS, JavaScript, Bootstrap, PHP, Laravel, Node.js, Express, MySQL, Git e GitHub" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" alt="HTML, CSS, JavaScript, Bootstrap, PHP" />
+<br>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,git,github&theme=dark" alt="Laravel, Node.js, Express, MySQL, Git e GitHub" />
 </div>
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <table>
   <tr>
@@ -57,7 +58,7 @@ Construindo soluções, aprendendo na prática e evoluindo a cada projeto.
   </tr>
 </table>
 
-## 📈 GitHub em números
+## GitHub em números
 
 <div align="center">
 
@@ -74,7 +75,7 @@ Construindo soluções, aprendendo na prática e evoluindo a cada projeto.
 
 <div align="center">
 
-### ✨ Sempre aprendendo. Sempre evoluindo.
+### Sempre aprendendo. Sempre evoluindo.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=100&section=footer" alt="Rodapé decorativo em tons de azul" />
 
